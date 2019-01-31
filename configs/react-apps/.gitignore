@@ -83,6 +83,8 @@ typings/
 # dotenv environment variables file
 .env
 
+# ignore jetbrains ide workspace dirs
+.idea/
 
 ### OSX ###
 *.DS_Store
